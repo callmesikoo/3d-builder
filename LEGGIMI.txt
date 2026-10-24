@@ -1,0 +1,21 @@
+MICROSOFT 3D BUILDER 20.0.4.0 - installazione offline
+====================================================
+
+1. Estrai lo zip in una cartella qualsiasi.
+2. Doppio clic su INSTALLA.bat.
+3. A fine installazione trovi 3D Builder nel menu Start.
+
+Contenuto:
+- Microsoft.3DBuilder_20.0.4.0_neutral_~_8wekyb3d8bbwe.AppxBundle  (l'app)
+- Microsoft.UI.Xaml.2.0_2.1810.18004.0_x64__8wekyb3d8bbwe.appx     (dipendenza)
+
+Tutti i file sono firmati da Microsoft (verificabile da
+tasto destro > Proprieta > Firme digitali).
+
+Serve anche Microsoft.VCLibs.140.00 (x64), che e' gia' presente su
+praticamente ogni Windows 10/11 perche' la usano le app di sistema.
+Solo se l'installazione da' un errore che cita "VCLibs", va scaricata da
+store.rg-adguard.net (ProductId 9WZDNCRFJ3T6, file
+Microsoft.VCLibs.140.00_14.0.33519.0_x64__8wekyb3d8bbwe.appx).
+
+Requisiti: Windows 10/11 a 64 bit.
